@@ -1,0 +1,374 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head><meta charset="utf-8" /><title>
+	Ann Arbor Figure Skating Club - Ann Arbor Figure Skating Club
+</title><meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-48254037-4', 'annarborfsc.org');
+        ga('send', 'pageview');
+
+    </script>
+    <link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/css/headers/header1.css" />
+
+    <!-- This is default header style -->
+    <link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/css/themes/headers/header1-blue.css" />
+
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/bootstrap/css/bootstrap.min.css" /><link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/css/style.css" /><link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/css/responsive.css" />
+
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/font-awesome/css/font-awesome.css" /><link rel="stylesheet" type="text/css" href="../../../../../../../figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/css/sequencejs-theme.modern-slide-in.css" />
+
+    <!-- CSS Page Style -->
+    <link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/css/pages/page_search.css" />
+
+    <!-- CSS Theme -->
+    <link rel="stylesheet" href="../../../../../../../figureskating.blob.core.windows.net/assets/css/themes/blue.css" />
+
+    <!-- Local CSS -->
+    <link href="../../../../../../Content/Site.css" rel="stylesheet" /><script src="../../../../../../bundles/modernizr?v=w9fZKPSiHtN4N4FRqV7jn-3kGoQY5hHpkwFv5TfMrus1"></script>
+
+        <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAHXCDVrzd5cltGEpdhOBL231XZ2jFV1_c&libraries=places' async defer></script>
+    <link href="../../../../../../Content/css" rel="stylesheet"/>
+<link href="../../../../../../Images/AAFSC_logo_small.ico" rel="shortcut icon" type="image/x-icon" /></head>
+<body>
+    <form method="post" action="../../../../../../shopping/&amp;quot%3Bhttps:/imgssl.constantcontact.com/letters/images/backgrounds/stainedglass.png&amp;quot%3B" id="ctl01">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="WFKWzGHx2Yk4hCidUf53ZzA/u1J/PjW7Nl5Bem9WbBNnF+F7wtUh2vJN+XfDU1lWyhl/LA1ihYIkeutFsvwzvk5cgStBrgPEJ73A4v27R4L3+J4ZztBXqjy7kHWC7YDxI6AVRJIoDQr84wAMapmovob0pBThQ54a5gRlfjb5ToAiUsYuy+PVe0VU133IajNR" />
+
+
+        <!--=== Top ===-->
+        <div class="top">
+            <div class="container">
+                <ul class="loginbar pull-right">
+                    <li><em>It's about the Skater: Accomplishment.Atmosphere.Attitude.Together.</em>&nbsp;&nbsp;&nbsp;&nbsp;<input type="image" name="ctl00$imgDonate" id="imgDonate" src="../../../../../../images/DonateButton.png" /></li>
+                    
+                            <li>
+                                <a id="hlLogin" href="../../../../../../Account/Login.aspx">Admin Log In</a></li>
+                        
+                </ul>
+            </div>
+
+        </div>
+        <!--/top-->
+
+        <!--=== Header ===-->
+        <div class="header">
+            <div class="navbar navbar-default" role="navigation">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <input type="image" name="ctl00$logo" id="logo" class="navbar-brand" alt="Ann Arbor Figure Skating Club" src="../../../../../../images/AAFSC_logo_small.png" />
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-responsive-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="dropdown active">
+                                <a id="hlhome" href="../../../../../../default.aspx">Home
+                                </a>
+                            </li>
+                            <li id="menuMembership" class="dropdown">
+                                <a href="../../../../../../shopping/&amp;quot%3Bhttps:/imgssl.constantcontact.com/letters/images/backgrounds/stainedglass.png&amp;quot%3B#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">About AAFSC
+                           
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a id="hlMembership" onclick="document.getElementById(&#39;menuMembership&#39;).Class=&#39;dropdown active&#39;" href="../../../../../../Membership/Information.aspx">Membership Information</a></li>
+                                    <li>
+                                        <a id="hlMembershipAccomplishments" href="../../../../../../Membership/Accomplishments.aspx">Club Awards</a></li>
+                                    <li>
+                                        <a id="HyperLink3" href="../../../../../GeneralInformation.aspx">Club History & Info</a></li>
+                                    <li>
+                                        <a id="HyperLink17" href="../../../../../Mission.aspx">Mission</a></li>
+                                    <li>
+                                        <a id="HyperLink5" href="../../../../../ClubPros.aspx">Club Pros - AAFSC Coaches</a></li>
+                                    <li>
+                                        <a id="HyperLink4" href="../../../../../Achievements.aspx">Member Achievements</a></li>
+                                    <li>
+                                        <a id="HyperLink6" href="../../../../../RinkOffice.aspx">Rink and Club Office</a></li>
+                                    <li>
+                                        <a id="HyperLink16" href="../../../../../AAFSCForms.aspx">AAFSC Forms</a></li>
+                                    <li>
+                                        <a id="HyperLink7" href="../../../../../Policies.aspx">Club Policies</a></li>
+                                    <li>
+                                        <a id="HyperLink2" href="../../../../../Contests.aspx">Club Contests</a></li>
+                                    <li>
+                                        <a id="HyperLink8" href="../../../../../BOD.aspx">Board of Directors</a></li>
+                                    <li>
+                                        <a id="HyperLink9" href="../../../../../Volunteering.aspx">Volunteering</a></li>
+                                    <li>
+                                        <a id="HyperLink10" href="../../../../../Donations.aspx">Donations</a></li>
+                                    <li>
+                                        <a id="HyperLink11" href="../../../../../Sponsorship.aspx">Sponsorship and Advertising</a></li>
+                                    <li>
+                                        <a id="HyperLink12" href="../../../../../Photography.aspx">Photography Credits</a></li>
+                                    <li>
+                                        <a id="HyperLink13" href="../../../../../SkaterServices.aspx">Sponsored Skater Services</a></li>
+                                    <li>
+                                        <a id="HyperLink14" href="../../../../../Feedback.aspx">Website Feedback</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="../../../../../../shopping/&amp;quot%3Bhttps:/imgssl.constantcontact.com/letters/images/backgrounds/stainedglass.png&amp;quot%3B#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Programs
+                           
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a id="hlLearnToSkate" href="../../../../../../Programs/LTS/LTSHome.aspx">Learn to Skate</a></li>
+                                    <li>
+                                        <a id="hlHockettes" href="../../../../../../Programs/Synchro/Hockettes.aspx">Synchronized Skating (Hockettes)</a></li>
+                                    <li>
+                                        <a id="hlIceDance" href="../../../../../../Programs/IceDance/IceDance.aspx">Ice Dance</a></li>
+                                    <li>
+                                        <a id="hlFreeStyle" href="../../../../../../Programs/FreeStyle/FreeStyle.aspx">FreeStyle</a></li>
+                                    <li>
+                                        <a id="hlOffIce" href="../../../../../../Programs/OffIce/OffIce.aspx">Off Ice Training</a></li>
+                                    <li>
+                                        <a id="hlCoachTraining" href="../../../../../../Programs/CoachTraining/CoachTraining.aspx">LTS Coach Training</a></li>
+                                    <li>
+                                        <a id="hlCoachingInformation" href="../../../../../CoachingInformation.aspx">Coaching Information</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="../../../../../../shopping/&amp;quot%3Bhttps:/imgssl.constantcontact.com/letters/images/backgrounds/stainedglass.png&amp;quot%3B#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Ice Sessions & Testing
+                            
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a id="hlGeneralCalendar" href="../../../../../../Schedules/GeneralCalendar.aspx">Detailed Calendar</a></li>
+                                    <li>
+                                    <li>
+                                        <a id="hlUpcomingEvents" href="../../../../../../Schedules/UpcomingEvents.aspx">Group Class Schedule</a></li>
+                                    <li>
+                                        <a id="hlIceSessions" href="../../../../../../Programs/Ice/ContractIce.aspx">Ice Sessions</a></li>
+                                    <li>
+                                        <a id="hlPassThroughIce" href="../../../../../../Schedules/PassThroughIce.aspx">Pass-through Ice</a></li>
+                                    <li>
+                                        <a id="hlTesting" href="../../../../../../Schedules/TestingSchedule.aspx">Testing Schedule</a></li>
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="../../../../../../shopping/&amp;quot%3Bhttps:/imgssl.constantcontact.com/letters/images/backgrounds/stainedglass.png&amp;quot%3B#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Competitions and Events
+                            
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a id="HyperLink1" href="../../../../../../Schedules/EventRegistration.aspx">Register for an Upcoming Event</a></li>
+                                    <li>
+                                    <li>
+                                        <a id="hlSpringtimeInvitational" href="../../../../../../Schedules/SpringtimeInvitational.aspx">Springtime Invitational</a></li>
+                                    <li>
+                                        <a id="hlMOI" href="../../../../../../Schedules/MelodyOnIce.aspx">Melody On Ice</a></li>
+                                    <li>
+                                        <a id="hlSkillsShowcase" href="../../../../../../Schedules/SkillsShowcase.aspx">Skills and Showcase</a></li>
+                                    <li>
+                                        <a id="hlEGLR" href="../../../../../../Schedules/EGLR.aspx">2021 Tri-State Virtual Synchronized Skating Classic</a></li>
+                                    <li>
+                                        <a id="hlAdultsSkateToo" href="../../../../../../Schedules/AdultsSkateToo.aspx">Adults Skate Too</a></li>
+                                    <li>
+                                        <a id="HyperLink15" href="../../../../../../Schedules/AdultOpen.aspx">Ann Arbor FSC Adult Open</a></li>
+                                    <li>
+                                        <a href="https://www.porterclassic.org/" target="_blank">Porter Classic</a></li>
+                                    <li>
+                                        <a id="hlUpcomingLocal" href="../../../../../../Schedules/UpcomingLocalCompetitions.aspx">Upcoming Local Competitions</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="../../../../../../shopping/&amp;quot%3Bhttps:/imgssl.constantcontact.com/letters/images/backgrounds/stainedglass.png&amp;quot%3B#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">AAFSC Store
+                            
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a id="hlCatalog" href="../../../../../../shopping/catalog.aspx">Online Catalog</a></li>
+                                    <li>
+                                        <a id="hlClubMerchandise" href="../../../../../../shopping/ClubMerchandise.aspx">Club Merchandise</a></li>                                    <li>
+                                        <a id="hlShoppingCart" href="../../../../../../shopping/cart.aspx">My Cart</a></li>
+                                </ul>
+                            </li>
+                            
+                                
+                        </ul>
+                    </div>
+                    <!-- /navbar-collapse -->
+                </div>
+            </div>
+        </div>
+        <!--/header-->
+
+
+        <!--=== Content Part  ===-->
+        <div class="container">
+            
+    <link href="../../../../../../assets/plugins/layer_slider/css/layerslider.css" rel="stylesheet" />
+    <!--=== Slider ===-->
+
+
+    <!--/slider-->
+    <!--=== End Slider ===-->
+
+
+    <!--=== Welcome Block ===-->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                
+                        <h3>
+                            <span id="MainContent_rptrCurrentNews_lblTitle_0">Melody on Ice Tickets</span></h3>
+                        <br />
+                        <table class="shell_panel-row" width="100%" border="0" cellpadding="0" cellspacing="0" background="https://mlsvc01-prod.s3.amazonaws.com/894b1064001/4ad1bbce-ae2b-4f90-b8ac-48c274537c8c.jpg" style="table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; text-align: center; background-image: url(../../../../../../&quot%3Bhttps:/mlsvc01-prod.s3.amazonaws.com/894b1064001/4ad1bbce-ae2b-4f90-b8ac-48c274537c8c.jpg&quot%3B);"><tbody><tr class="" data-cpeid="w-1676250944177-736"><td class="shell_panel-cell" align="center" valign="top"><table class="shell_width-row scale" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 700px;"><tbody><tr><td class="shell_width-cell" align="center" valign="top" style="padding: 15px 10px;"><table class="shell_content-row" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="shell_content-cell" align="center" valign="top" bgcolor="#030008" style="background-color: rgb(3, 0, 8); padding: 0px; border: 0px solid rgb(62, 62, 62);"><table class="layout layout--1-column" data-cpeid="w-1676250944177-641" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; min-width: 100%;"><tbody><tr><td class="column column--1 scale stack" data-cpeid="w-1676250944177-424" align="center" valign="top" style="width: 680px;"><div class="spacer" data-cpeid="w-1676250944177-486" style=" height: 10px;"> </div><table class="image image--padding-vertical image--mobile-scale image--mobile-center" data-cpeid="w-1676250952110-691" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="image_container content-padding-horizontal" align="center" valign="top" style="padding: 10px 40px;"><a href="https://form.jotform.com/aafsc/melody-on-ice-2024-tickets" data-trackable="true" target="_blank"><img data-image-content="" class="image_content" width="600" src="../../../../../../../files.constantcontact.com/894b1064001/b43c33fb-c86e-4608-9661-0847878f5533.jpg" alt="" style="display: block; height: auto; max-width: 100%;"></a></td></tr></tbody></table><table class="text text--padding-vertical" data-cpeid="w-1676251021945-841" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="text_content-cell content-padding-horizontal" align="left" valign="top" style="-webkit-font-smoothing: antialiased; font-family: Arial, Verdana, Helvetica, sans-serif; color: rgb(62, 62, 62); font-size: 14px; display: block; overflow-wrap: break-word; padding: 10px 40px;"><p align="center" style="margin: 0px; padding: 0px; text-align: center;"><span style="color: rgb(255, 255, 255); font-family: &quot;Comic Sans MS&quot;, &quot;Comic Sans&quot;, &quot;Chalkboard SE&quot;, sans-serif; font-weight: bold;">Ann Arbor Figure Skating Club</span><span style="font-weight: bold;">﻿</span></p></td></tr></tbody></table><table class="socialFollow socialFollow--padding-vertical" data-cpeid="w-1676251024715-524" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;"><tbody><tr><td class="socialFollow_container content-padding-horizontal" width="100%" align="center" valign="top" style="height: 1px; padding: 10px 40px;"><a href="https://www.facebook.com/lovesAAFSC" data-trackable="true" target="_blank"><img class="socialFollow_icon" alt="Facebook" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/circles/circleColor_Facebook_v4.png" style="display: inline-block; margin: 0px; padding: 0px;"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/annarborfsc/" data-trackable="true" target="_blank"><img class="socialFollow_icon" alt="Instagram" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/circles/circleColor_Instagram_v4.png" style="display: inline-block; margin: 0px; padding: 0px;"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCVXIUmz_5Gn7VhcDrw72jmA?view_as=subscriber" data-trackable="true" target="_blank"><img class="socialFollow_icon" alt="YouTube" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/circles/circleColor_YouTube_v4.png" style="display: inline-block; margin: 0px; padding: 0px;"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr data-cpeid="w-1676250944177-363"><td class="shell_panel-cell shell_panel-cell--systemFooter" align="center" valign="top"><table class="shell_width-row scale" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 792px;"><tbody><tr><td class="shell_width-cell" align="center" valign="top" style="padding: 0px;"><table class="shell_content-row" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="shell_content-cell" align="center" valign="top" bgcolor="#030008" style="background-color: rgb(3, 0, 8); padding: 0px; border: 0px solid rgb(62, 62, 62);"><table class="layout layout--1-column" data-cpeid="w-1676250944177-132" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; min-width: 100%;"><tbody><tr><td class="column column--1 scale stack" data-cpeid="w-1676250944177-801" align="center" valign="top" style="width: 792px;"><table class="footer" data-cpeid="w-1676250944177-387" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; font-family: Verdana, Geneva, sans-serif; color: rgb(93, 93, 93); font-size: 12px;"><tbody><tr><td class="footer_container" align="center"><table class="footer-container" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="table-layout: auto !important; background-color: rgb(255, 255, 255); margin-left: auto; margin-right: auto;"><tbody><tr><td width="100%" align="center" valign="top" style="width: 792px;"><div class="footer-max-main-width" align="center" style="margin-left: auto; margin-right: auto; max-width: 100%;"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;"><tbody><tr><td class="footer-layout" align="center" valign="top" style="padding: 16px 0px;"><br></td></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><br />
+                        <a id="MainContent_rptrCurrentNews_lbReadMore_0" href="javascript:__doPostBack(&#39;ctl00$MainContent$rptrCurrentNews$ctl00$lbReadMore&#39;,&#39;&#39;)">..Read More..</a>
+                    
+                        <hr />
+                    
+                        <h3>
+                            <span id="MainContent_rptrCurrentNews_lblTitle_1">Adult Skating Events - Feb. 2024</span></h3>
+                        <br />
+                        <table class="shell_panel-row" width="100%" border="0" cellpadding="0" cellspacing="0" background="https://mlsvc01-prod.s3.amazonaws.com/894b1064001/e92f5d1e-5442-4f64-b315-95bc76b9c6cf.jpg" style="table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; text-align: center; background-image: url(../../../../../../&quot%3Bhttps:/mlsvc01-prod.s3.amazonaws.com/894b1064001/e92f5d1e-5442-4f64-b315-95bc76b9c6cf.jpg&quot%3B);"><tbody><tr class="" data-cpeid="w-1705077962512-454"><td class="shell_panel-cell" align="center" valign="top"><table class="shell_width-row scale" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 700px;"><tbody><tr><td class="shell_width-cell" align="center" valign="top" style="padding: 15px 10px;"><table class="shell_content-row" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="shell_content-cell" align="center" valign="top" bgcolor="#FFFFFF" style="padding: 0px; border: 0px solid rgb(62, 62, 62);"><table class="layout layout--1-column" data-cpeid="w-1705077962512-566" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; min-width: 100%;"><tbody><tr><td class="column column--1 scale stack" data-cpeid="w-1705077962512-129" align="center" valign="top" style="width: 680px;"><div class="spacer" data-cpeid="w-1705077962512-920" style="height: 30px;"> </div><table class="image image--padding-vertical image--mobile-scale image--mobile-center" data-cpeid="w-1705077969081-268" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="image_container content-padding-horizontal" align="center" valign="top" style="padding: 10px 40px;"><a href="https://form.jotform.com/aafsc/2024-adults-skate-too-exhibition" data-trackable="true" target="_blank"><img data-image-content="" class="image_content" width="600" src="../../../../../../../files.constantcontact.com/894b1064001/b7ff295b-d5f1-4ef1-aaed-17bfc43b938f.jpg" alt="" style="display: block; height: auto; max-width: 100%;"></a></td></tr></tbody></table><table class="image image--padding-vertical image--mobile-scale image--mobile-center" data-cpeid="w-1705077965300-821" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="image_container content-padding-horizontal" align="center" valign="top" style="padding: 10px 40px;"><a href="https://form.jotform.com/aafsc/2024-elin-schran-clinics" data-trackable="true" target="_blank"><img data-image-content="" class="image_content" width="600" src="../../../../../../../files.constantcontact.com/894b1064001/262b2e37-eb36-4e1c-a7f4-1d3ddadfe0ba.jpg" alt="" style="display: block; height: auto; max-width: 100%;"></a></td></tr></tbody></table><table class="image image--padding-vertical image--mobile-scale image--mobile-center" data-cpeid="w-1705077967335-067" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="image_container content-padding-horizontal" align="center" valign="top" style="padding: 10px 40px;"><a href="https://form.jotform.com/aafsc/2024-elin-schran-clinics" data-trackable="true" target="_blank"><img data-image-content="" class="image_content" width="600" src="../../../../../../../files.constantcontact.com/894b1064001/f8a1d9a4-9a78-4104-8562-b38c8fffae69.jpg" alt="" style="display: block; height: auto; max-width: 100%;"></a></td></tr></tbody></table><table class="text text--padding-vertical" data-cpeid="w-1705077962512-925" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="text_content-cell content-padding-horizontal" align="center" valign="top" style="-webkit-font-smoothing: antialiased; text-align: center; font-family: Arial, Verdana, Helvetica, sans-serif; color: rgb(62, 62, 62); font-size: 14px; display: block; overflow-wrap: break-word; padding: 10px 40px;"><p style="margin: 0px; padding: 0px;"><span style="font-weight: bold; color: rgb(40, 79, 161);">Ann Arbor Figure Skating Club</span></p></td></tr></tbody></table><table class="socialFollow socialFollow--padding-vertical" data-cpeid="w-1705079368416-587" width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;"><tbody><tr><td class="socialFollow_container content-padding-horizontal" width="100%" align="center" valign="top" style="height: 1px; padding: 10px 40px;"><img class="socialFollow_icon" alt="Facebook" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/circles/circleColor_Facebook_v4.png" style="display: inline-block; margin: 0px; padding: 0px;">&nbsp;&nbsp;<img class="socialFollow_icon" alt="Instagram" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/circles/circleColor_Instagram_v4.png" style="display: inline-block; margin: 0px; padding: 0px;">&nbsp;&nbsp;<img class="socialFollow_icon" alt="YouTube" width="32" border="0" src="https://imgssl.constantcontact.com/letters/images/CPE/SocialIcons/circles/circleColor_YouTube_v4.png" style="display: inline-block; margin: 0px; padding: 0px;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr data-cpeid="w-1705077962512-757"><td class="shell_panel-cell shell_panel-cell--systemFooter" align="center" valign="top"><table class="shell_width-row scale" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 792px;"><tbody><tr><td class="shell_width-cell" align="center" valign="top" style="padding: 0px;"><table class="shell_content-row" width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;"><tbody><tr><td class="shell_content-cell" align="center" valign="top" bgcolor="#FFFFFF" style="padding: 0px; border: 0px solid rgb(62, 62, 62);"><table class="layout layout--1-column" data-cpeid="w-1705077962512-738" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; min-width: 100%;"><tbody><tr><td class="column column--1 scale stack" data-cpeid="w-1705077962512-371" align="center" valign="top" style="width: 792px;"><table class="footer" data-cpeid="w-1705077962512-489" width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; font-family: Verdana, Geneva, sans-serif; color: rgb(93, 93, 93); font-size: 12px;"><tbody><tr><td class="footer_container" align="center"><table class="footer-container" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="margin-left: auto; margin-right: auto; table-layout: auto !important;"><tbody><tr><td width="100%" align="center" valign="top" style="width: 792px;"><div class="footer-max-main-width" align="center" style="margin-left: auto; margin-right: auto; max-width: 100%;"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;"><tbody><tr><td class="footer-layout" align="center" valign="top" style="padding: 16px 0px;"><table class="footer-main-width" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 580px;"><tbody><tr><td class="footer-text" align="center" valign="top" style="color: rgb(93, 93, 93); font-size: 12px; padding: 4px 0px;"><br></td></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><br />
+                        <a id="MainContent_rptrCurrentNews_lbReadMore_1" href="javascript:__doPostBack(&#39;ctl00$MainContent$rptrCurrentNews$ctl02$lbReadMore&#39;,&#39;&#39;)">..Read More..</a>
+                    
+
+            </div>
+        </div>
+    </div>
+    <!-- End Welcome Block -->
+
+
+        </div>
+        <!--=== End Content Part  ===-->
+
+        <!--=== Footer ===-->
+        
+                <div class="footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 md-margin-bottom-40">
+                                <div class="posts">
+                                    <div class="headline">
+                                        <h2>Quick Links</h2>
+                                    </div>
+                                </div>
+                                <ul>
+                                    <li>
+                                        <a id="hlIceSchedules" href="https://www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
+                                    <li>
+                                        <a id="hlpt" href="../../../../../../Schedules/PassThroughIce.aspx">Pass-Through Ice</a></li>
+                                    <li>
+                                        <a id="hllts" href="../../../../../../Programs/LTS/LTSHome.aspx">Learn to Skate</a></li>
+                                    <li>
+                                        <a id="hlTestSchedule" href="../../../../../../Schedules/TestingSchedule.aspx">Testing Schedule</a></li>
+                                    <li>
+                                        <a id="hlevents" href="../../../../../../Schedules/UpcomingEvents.aspx">Upcoming Events</a></li>
+                                    <li>
+                                        <a id="hlDonate" href="../../../../../Donations.aspx">Donate</a></li>                                
+                                </ul>
+                            </div>
+
+                            <!--/col-md-8-->
+
+                            <div class="col-md-4">
+                                <div class="headline">
+                                    <h2>Contact Us</h2>
+                                </div>
+                                <address class="md-margin-bottom-40">
+                                    Ann Arbor Ice Cube
+                            <br />
+                                    2121 Oak Valley Drive<br />
+                                    Ann Arbor, MI 48103
+                                </address>
+                                <address class="md-margin-bottom-40">
+                                    Phone: 734-213-6768
+                            <br />
+                                    Fax: 734-213-3690
+                            <br />
+                                    Email: <a href="mailto:aafsc@annarborfsc.org" class=""></a><a href="mailto:aafsc@annarborfsc.org">aafsc@annarborfsc.org</a>
+                                </address>
+
+                                <!-- Stay Connected -->
+                                <div class="headline">
+                                    <h2>Stay Connected</h2>
+                                </div>
+                                <ul class="social-icons">
+                                    <li><a href="https://www.facebook.com/pages/Ann-Arbor-Figure-Skating-Club/461447855222" data-original-title="Facebook" class="social_facebook" target="_blank"></a></li>
+                                </ul>
+                            </div>
+                            <!--/col-md-4-->
+                        </div>
+                        <!--/row-->
+                    </div>
+                    <!--/container-->
+                </div>
+            
+        <!--/footer-->
+        <!--=== End Footer ===-->
+
+        <!--=== Copyright ===-->
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="copyright-space">
+                            2018 &copy; Ann Arbor Figure Skating Club. ALL Rights Reserved. 
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                    </div>
+                </div>
+                <!--/row-->
+            </div>
+            <!--/container-->
+        </div>
+        <!--/copyright-->
+        <!--=== End Copyright ===-->
+
+        <!-- JS Global Compulsory -->
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/hover-dropdown.min.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/back-to-top.js"></script>
+
+        <!-- JS Implementing Plugins -->
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/horizontal-parallax/js/sequence.jquery-min.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/parallax-slider/js/modernizr.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/plugins/bxslider/jquery.bxslider.js"></script>
+
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/scripts/jquery.sequence.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/sequencejs-options.modern-slide-in.js"></script>
+
+        <!-- JS Page Level -->
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/js/app.js"></script>
+        <script type="text/javascript" src="../../../../../../../figureskating.blob.core.windows.net/assets/js/pages/index.js"></script>
+
+        <script type="text/javascript">
+            jQuery(document).ready(function () {
+                App.init();
+                //App.initSliders();
+                App.initBxSlider();
+            });
+        </script>
+
+        
+
+        
+    </form>
+</body>
+</html>
