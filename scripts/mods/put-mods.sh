@@ -1,5 +1,5 @@
 #!/bin/bash
-cp LTSHome.aspx /var/www/myproject/www.annarborfsc.org/Programs/LTS
-cp Information.aspx /var/www/myproject/www.annarborfsc.org/Membership/Information.aspx
-cp ContractIce.aspx /var/www/myproject/www.annarborfsc.org/Programs/Ice/ContractIce.aspx
-cp blue.css /var/www/myproject/figureskating.blob.core.windows.net/assets/css/themes
+cp LTSHome.aspx ../../www.annarborfsc.org/Programs/LTS/
+cp Information.aspx ../../www.annarborfsc.org/Membership/
+cp ContractIce.aspx ../../www.annarborfsc.org/Programs/Ice/ContractIce.aspx
+cp blue.css ../../figureskating.blob.core.windows.net/assets/css/themes
