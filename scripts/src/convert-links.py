@@ -21,7 +21,7 @@ def rewrite_url(match):
     prefix, attribute, protocol, domain, path = match.groups()
     # Adjust the replacement pattern according to your needs
     # Now handles multiple attributes by reconstructing the attribute assignment
-    return f'{prefix}../{domain}{path}"'
+    return f'{prefix}../../{domain}{path}"'
 
 def process_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
