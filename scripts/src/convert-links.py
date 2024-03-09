@@ -12,7 +12,7 @@ domains_to_rewrite = [
 
 # Compile a regular expression pattern for finding URLs to rewrite
 url_pattern = re.compile(
-    r'href="(https?)://(' + '|'.join(re.escape(domain) for domain in domains_to_rewrite) + ')(/[^"]*)"'
+    r'href="(http[s]?)://(' + '|'.join(re.escape(domain) for domain in domains_to_rewrite) + ')(/[^"]*)"'
 )
 
 def rewrite_url(match):
