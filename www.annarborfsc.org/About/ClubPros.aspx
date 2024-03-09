@@ -529,7 +529,7 @@
                         alt="Alexandria Carr"
                         id="MainContent_Coaches_dlCoaches_imgPhoto_0"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/a93fa2af-4fc0-4029-9f30-b87029dd5788"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/a93fa2af-4fc0-4029-9f30-b87029dd5788"
                       />
                      </a>
                     </div>
@@ -552,7 +552,7 @@
                       <image
                         id="MainContent_Coaches_dlCoaches_imgPhoto_1"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/c26b1c26-5bd6-4ea1-b41f-5eb1c0738cbe"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/c26b1c26-5bd6-4ea1-b41f-5eb1c0738cbe"
                         alt="Alison Maki"
                       />
                      </a>
@@ -576,7 +576,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_2"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/86812c64-d72f-4078-b140-069d2d827a97"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/86812c64-d72f-4078-b140-069d2d827a97"
                         alt=">Annie Wang"
                       />
                      </a>
@@ -603,7 +603,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_3"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/a3fa5533-0ed1-475a-bbbc-9f83e8a81778"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/a3fa5533-0ed1-475a-bbbc-9f83e8a81778"
                         alt="Bradley Newman"
                       />
                       </a>
@@ -628,7 +628,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_4"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/149c5a2b-d380-41b2-b7a6-26897a4f044d"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/149c5a2b-d380-41b2-b7a6-26897a4f044d"
                         alt="Brandon Forsyth"
                       />
                       </a>
@@ -653,7 +653,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_5"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/c7f1a3d0-c035-4709-8dc9-42f17ad46e60"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/c7f1a3d0-c035-4709-8dc9-42f17ad46e60"
                         alt="Claire Mifsud"
                       />
                       </a>
@@ -680,7 +680,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_6"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/3cb010dc-3254-4d61-8458-b780412e5215"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/3cb010dc-3254-4d61-8458-b780412e5215"
                         alt="Connie Achtenberg"
                       />
                       </a>
@@ -705,7 +705,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_7"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/082ffdce-e2c9-498c-ab4f-9f017f428a11"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/082ffdce-e2c9-498c-ab4f-9f017f428a11"
                         alt="Danielle Brogley"
                       />
                       </a>
@@ -732,7 +732,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_8"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/03674f0e-7130-4a9c-906c-a793eea31bd0"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/03674f0e-7130-4a9c-906c-a793eea31bd0"
                         alt="Douglas Haw"
                       />
                       </a>
@@ -757,7 +757,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_9"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/ed1a1667-393a-42a2-98a8-4bb7ef072247"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/ed1a1667-393a-42a2-98a8-4bb7ef072247"
                         alt="Elizabeth Casey"
                       />
                       </a>
@@ -782,7 +782,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_10"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/07ea0ed4-e5d0-45d8-b5b3-1fbda42f17b6"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/07ea0ed4-e5d0-45d8-b5b3-1fbda42f17b6"
                         alt="Erin Donovan"
                       />
                       </a>
@@ -806,7 +806,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_11"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/fdc5e24f-2046-4d91-b85d-a68fb4532116"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/fdc5e24f-2046-4d91-b85d-a68fb4532116"
                         alt="Heather Lutz-Leszczynski"
                       />
                       </a>
@@ -831,7 +831,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_12"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/6c41dc95-bf89-4839-a677-65ca8cafa9da"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/6c41dc95-bf89-4839-a677-65ca8cafa9da"
                         alt="Jason Deveikis"
                       />
                       </a>
@@ -856,7 +856,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_13"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/16f7bcf6-f4ee-4e13-9873-683bbbfb9b1e"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/16f7bcf6-f4ee-4e13-9873-683bbbfb9b1e"
                         alt="Jenny Patero-Schneider"
                       />
                       </a>
@@ -880,7 +880,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_14"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/460cbf4c-cb77-4790-b1ce-47b013cfea99"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/460cbf4c-cb77-4790-b1ce-47b013cfea99"
                         alt="Joseph Breeden"
                       />
                       </a>
@@ -909,7 +909,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_15"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/03e6628c-6647-4da1-8590-8a68958ba958"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/03e6628c-6647-4da1-8590-8a68958ba958"
                         alt="Karolyn Flaherty"
                       />
                       </a>
@@ -933,7 +933,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_16"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/e20b3f17-00c6-45da-8705-41a2d4b58408"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/e20b3f17-00c6-45da-8705-41a2d4b58408"
                         alt="Katharine Greene"
                       />
                       </a>
@@ -958,7 +958,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_17"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/f7e23ecd-2302-4ab0-bd76-90ee203bb4a8"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/f7e23ecd-2302-4ab0-bd76-90ee203bb4a8"
                         alt="Kendra Pottenger"
                       />
                       </a>
@@ -984,7 +984,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_18"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/f481112c-a367-4a9d-8bc1-9b646b382a1f"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/f481112c-a367-4a9d-8bc1-9b646b382a1f"
                         alt="Kendra Pottenger"
                       />
                       </a>
@@ -1008,7 +1008,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_19"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/e54315d8-2f2c-46d2-b4ba-3f299dc4e8ca"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/e54315d8-2f2c-46d2-b4ba-3f299dc4e8ca"
                         alt="Kyra Christensen"
                       />
                       </a>
@@ -1034,7 +1034,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_20"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/4b8495f9-4b1d-4e65-af8f-e2ecbe997087"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/4b8495f9-4b1d-4e65-af8f-e2ecbe997087"
                         alt="Lia Forsyth"
                       />
                       </a>
@@ -1061,7 +1061,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_21"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/78566ed7-baa8-4e63-bb6c-00f3b63c8e2a"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/78566ed7-baa8-4e63-bb6c-00f3b63c8e2a"
                         alt="Lindsay Grajek"
                       />
                       </a>
@@ -1086,7 +1086,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_22"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/e625f1e4-2c68-4139-8a35-3ea531aad04e"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/e625f1e4-2c68-4139-8a35-3ea531aad04e"
                         alt="Marisa Hutchinson"
                       />
                       </a>
@@ -1111,7 +1111,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_23"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/a1848253-6267-453d-a7f3-1933ce5293c5"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/a1848253-6267-453d-a7f3-1933ce5293c5"
                         alt="Mary Johanson"
                       />
                       </a>
@@ -1140,7 +1140,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_24"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/8bf6526b-4d98-43dd-b420-17c622bd0331"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/8bf6526b-4d98-43dd-b420-17c622bd0331"
                         alt="Melanie Bolhuis"
                       />
                       </a>
@@ -1165,7 +1165,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_25"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/5b471997-55a5-44ff-85fa-93aba5a6df39"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/5b471997-55a5-44ff-85fa-93aba5a6df39"
                         alt="Melissa Keil"
                       />
                       </a>
@@ -1191,7 +1191,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_26"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/fe1704bb-b380-48e5-b47e-370dc73c2432"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/fe1704bb-b380-48e5-b47e-370dc73c2432"
                         alt="Meredith Longoria"
                       />
                       </a>
@@ -1218,7 +1218,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_27"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/031e714c-2c85-413d-99b5-50b5e554a9eb"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/031e714c-2c85-413d-99b5-50b5e554a9eb"
                         alt="Nicole Falardeau"
                       />
                       </a>
@@ -1243,7 +1243,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_28"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/b507111e-592c-400a-b33a-03504967a1ef"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/b507111e-592c-400a-b33a-03504967a1ef"
                         alt="Rebecka Hakansson"
                       />
                       </a>
@@ -1268,7 +1268,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_29"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/bb4aa8f7-1340-43dc-94fd-59d187ed3153"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/bb4aa8f7-1340-43dc-94fd-59d187ed3153"
                         alt="Samantha Lang"
                       />
                       </a>
@@ -1295,7 +1295,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_30"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/a8d1ca09-7325-4400-8f0c-d05856182ce2"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/a8d1ca09-7325-4400-8f0c-d05856182ce2"
                         alt="Steven Pottenger"
                       />
                       </a>
@@ -1319,7 +1319,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_31"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/532897ab-65ac-4663-9c4f-345e72375af4"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/532897ab-65ac-4663-9c4f-345e72375af4"
                         alt="Veronica Pershina"
                       />
                       </a>
@@ -1344,7 +1344,7 @@
                       <img
                         id="MainContent_Coaches_dlCoaches_imgPhoto_32"
                         class="img-thumbnail"
-                        src="http://figureskating.blob.core.windows.net/aafsc-pictures/b9008943-c221-4199-a207-e343bd387bae"
+                        src="../figureskating.blob.core.windows.net/aafsc-pictures/b9008943-c221-4199-a207-e343bd387bae"
                         alt="Yaroslava Nechaeva"
                       />
                       </a>
@@ -1477,56 +1477,56 @@
       <!-- JS Global Compulsory -->
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/jquery-1.10.2.min.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/jquery-1.10.2.min.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/jquery-migrate-1.2.1.min.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/jquery-migrate-1.2.1.min.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/bootstrap/js/bootstrap.min.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/bootstrap/js/bootstrap.min.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/hover-dropdown.min.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/hover-dropdown.min.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/back-to-top.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/back-to-top.js"
       ></script>
 
       <!-- JS Implementing Plugins -->
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/horizontal-parallax/js/sequence.jquery-min.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/horizontal-parallax/js/sequence.jquery-min.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/parallax-slider/js/modernizr.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/parallax-slider/js/modernizr.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/plugins/bxslider/jquery.bxslider.js"
+        src="../figureskating.blob.core.windows.net/assets/plugins/bxslider/jquery.bxslider.js"
       ></script>
 
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/scripts/jquery.sequence.js"
+        src="../figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/scripts/jquery.sequence.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/sequencejs-options.modern-slide-in.js"
+        src="../figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/sequencejs-options.modern-slide-in.js"
       ></script>
 
       <!-- JS Page Level -->
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/js/app.js"
+        src="../figureskating.blob.core.windows.net/assets/js/app.js"
       ></script>
       <script
         type="text/javascript"
-        src="https://figureskating.blob.core.windows.net/assets/js/pages/index.js"
+        src="../figureskating.blob.core.windows.net/assets/js/pages/index.js"
       ></script>
 
       <script type="text/javascript">

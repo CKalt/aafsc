@@ -42,10 +42,10 @@
 <link href="../Images/AAFSC_logo_small.ico" rel="shortcut icon" type="image/x-icon" /></head>
 <body>
     <form method="post" action="Photography.aspx" id="ctl01">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="LseG+xheKvewjoRJknHwyhwdF0Xxl8RDLy51UdOMOnB/WvcrRhmNKaI9t2kVwvEPeaio64SiBecpbO1IMGAca5JQnzN5VEpijL5RueImSrWTygd+3tePCpupvoZ8OyIN/496ndGyduSxh+/FdlMetyffsJivSsF1LST5eKcSnrrd1mDFr3FtUkdljwP0vecJ5z5XCo+/7Ul6YUcPAP31qXyuNeKxMwYbbgWPCbQSYlwahoC5OdFZxTAlbfrZV+Jok/qPFLJ4EUYOGE0mkc685VxeG7DGGdED0mjhLANhnYIX47h/woK3FHd8j+vrPL9WhGeyvjiiEgR+Kvz4nMJ9O+MmMvH68ltuxF9uLjUDFAFARAk5b/zdlQMeE+FJzjkAyfDPkxR5yTcrkWECcGEdvQfECp3qpEqdDUzegsJluMugKe+Q+3/9p/mlDjPLz+KH" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="WovyEVC3CxuajFRYH/Dvzo/qipimgB54HOyNtlAvpXI75fD6eP07egUudOc6kKCsv3HsCWdQ95AfDp0tlWuXOS6PSPjN7KEV7HrbaGMZKUTogK3/7QmxvuW7D0tR/bZy7oEcr1+D7AwwWFEozbC9tKXbcnW1UcilFwj2oXwl/oAix81hSEm0xad8f+E8RjGpGjIvAn0FptXrM1cNCZ+KiH/TGTNkWGhSTvUtj8jc8y+KgjYEx3V5eQuyB6BZORfwtCh9XeH1ROntsuErxw0VER3Whf1+kfo48g8GPT52YdBQWc5WjrM8qMDEX1GSuUHsiTP1EKOISH1SQT4ujFGwpYJpJBuNXF1NKn2umJ0QZKf/WHz7/823UiZ91J6NiaWSVizlhvNARKCMUo8yMF2q/Fvn6PxlNKxGo1cW4W6Pq64C7R+lObXD15HF1d0DwUa4" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0A745952" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="1I7AuuJkkQbC20fRPiKwoC8u1dQwXYR27JbQ2NFWUtBJ2c72Y0zmQsu9gJYJHLIW0Gfp1IMSlENwu4xZeXQsE+Rsxr7cilwVHYMw9oYF3ycYGWjloyGPP6n97LAJlajM+cPvlYTm4AmhKix1Ast/NA==" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="4OMsxQfXHmUz1jh/e6nEk3JH0Xl4IRe/EyjzuFVlHCgbe38pmeaBqhF50AnB6szaxAfc2naeqc3PsVlfCyvKgFJvmz4CaOo6JnYlS1q1zrRBebWR8zVguNLJ2DR8L98OIMEM7SPMc4cu/2MLG8FugQ==" />
 
 
         <!--=== Top ===-->
@@ -270,7 +270,7 @@
                                 </div>
                                 <ul>
                                     <li>
-                                        <a id="hlIceSchedules" href="../www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
+                                        <a id="hlIceSchedules" href="https://www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
                                     <li>
                                         <a id="hlpt" href="../Schedules/PassThroughIce.aspx">Pass-Through Ice</a></li>
                                     <li>

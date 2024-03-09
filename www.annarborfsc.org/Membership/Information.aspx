@@ -241,7 +241,7 @@
             <p>The Ann Arbor Figure Skating club is a private, not-for-profit organization. Membership is available to anyone who is interested in learning about the sport of figure skating; either learning to skate or being a spectator.&nbsp; </p>
             <p>&nbsp;</p>
             <p>
-                <input type="submit" name="ctl00$MainContent$btnMembership" value="Apply for New Membership or Renew Online" id="MainContent_btnMembership" class="btn-u btn-u-large" /></p>
+                <input type="button" name="ctl00$MainContent$btnMembership" value="Apply for New Membership or Renew Online" id="MainContent_btnMembership" class="btn-u btn-u-large" onclick="window.location.href='https://comp.entryeeze.com/Membership/Welcome.aspx?cid=434';" /></p>
             <p>&nbsp;</p>
             <p>Please contact the Club office at 734-213-6768 if you are in need of clarification or assistance on membership matters.</p>
         </div>

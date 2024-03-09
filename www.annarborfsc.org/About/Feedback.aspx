@@ -44,7 +44,7 @@
 <link href="../Images/AAFSC_logo_small.ico" rel="shortcut icon" type="image/x-icon" /></head>
 <body>
     <form method="post" action="Feedback.aspx" id="ctl01">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="C9mYIsQBP5aEReJQfU/I5w6Wqs6lrKg18Jc1q78xzd5LSiPC9CMPN49bULfnJQdpqnwlJlUABqMsUXqLcxKqQT8Z2BYDi0r3lDhSlI6Yxfy+WxVED6UT6vXKS6l90Vyvsr5203XR8RCScgsJwrTqjabpxbVYQyNhLFYYtE+n075Y514IoFN9ODWUgGkoXp+lD62fgiV2RZostuQc+uTK/exsl9y4ZPxudor1UfpWS+EzKEsMyxBH+WkBedVTYydyEAfAPyNOEIlWX5woLwM7MFKRHsG2zOR5Zgwqr0iEU0j34hCxxYRH7Y1ghvUaMEbW4PgcPluA9k41HQC5ZSow3rJRqsrAQPi+bHOgnSYIPS0AsZ/DFSZ0XwGmI94UUNM6ScAsrvj6fQConcfjqM72rpRpSEM9eavqmSXsU5KBJQInt0NsX/wogEuiuGet0rULHldBZBqKooKQJhkWTgfdyH8MMlydyVsIBL2FfoC///g2s/T2syoL1oNyXiUOxnup" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/reJkdJ3EfViBEbHIu3azioMMeW/N6Vijvj/J4MFgyqmre1OZuHeCDhwv48IGbWPbEfXue1IF2R5U/x+i8G6/YEk5hiTmVkca+uLiuNJgOoBIWns89tujJjeiApRSZbXLZuLEGr6d5LORI8Xcr/dHXSLiu0q1uylmnYgFqvZkze4KV4HhFiVK8cuM2aZvdXg/psGn1KDtAZ5qiEnWetPlPP92l3dYWJkFQgcbAvt/hfbegDFu+RSY7kypdMeO3A1ZbvP6GdL+DuRFWBDMEW31I6f/zf507eIwfu4dOWzQhup6sgvy0trzD9msa08YtsJzDfLEQURyFNDJmWUXY7LRFNxRmMcvSXZms0uefVYVk3Cq4IhmwS2F8D5hwSNa6rY1nIImLfuEVvLMQ+KWKxw86Vu4vde6hnssxd8qZFhzdM2M9ViXGjpTJAV7S1UdmjCuZkIbIyddBs1h4aWuOyHTGoXXJwJwrJ3gtAMTxOpSa9S9LpPvxtPQrdcwq+Rv52x" />
 
 
 <script src="../Scripts/WebForms/MsAjax/MicrosoftAjax.js" type="text/javascript"></script>
@@ -52,7 +52,7 @@
 <script src="../ScriptResource.axd?d=ymR-vFF-hQz3GLvGbTICgDgRsxSIhtfMC7OLAhg5z3aNodn45YMsjsRypFgHnm642iP0ER0Fs233IYCBQHtBm7o7f0OveB4UBzpljPJ_FSqIWcvgivoDTw6nFAMENiDmEtfA2GQiww6TYy2ui5is27qWm_BRD2pKcZbbGxZwNTI1&amp;t=4cbe974" type="text/javascript"></script>
 <script src="../ScriptResource.axd?d=WTME1G6h1ZQ5RjJO2h2aiOVkzbXvMPtokAb10tcufk6WtgqGPoYdvIvSSfCax_afhmIWEyBGjVmt9cKMM30URQZFmm9rqVGnIAebnTlOTDUUY2WzQbMp3By-NjHqOiAw6BncMgYKcyQn7znLp9Q6Ih0OyOIRIh6i8d4fNqJoUy4hjo_eNpQm4s2CPWoMLVnwdwzeqRpWbs60ZoV7uNDfXQ2" type="text/javascript"></script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="96CAFDD1" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="A9LCeWcIu8az8x3cAHjP8dc1KhanLujKzS6pjtzwrNZNeHlDVVDafKfR1k9TQiTAzbGXRLhEfxRqQKciV+tF03LoEaDyNbDBFCQYgIaNtvjEsaDbwq+gFj0MmeTVNCgRzSk6H681YXO3c1pPqpyngx+ER1HM3rmdqZpAjqYabkIiCqUft5jtb49p2K71ROnc" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="WDFpOiTZKhZB/3g4JlZQIjFW91YZWJJZkJzsp8hszNt+xGbY1STEtBxXW5pWlAjrwGkVnVFS0wqmTBQBnS1M46PEiD8ZtAZnLEIsETU9BJzFYOEfEMxj810KS/At5EMHGCFTZRGdYV6ttnQnpxfUxIaSc56KN0/x7Wqyiq6w6q81ElP/yIZk7RMMSumSkTuq" />
 
 
         <!--=== Top ===-->
@@ -278,7 +278,7 @@
                                 </div>
                                 <ul>
                                     <li>
-                                        <a id="hlIceSchedules" href="../www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
+                                        <a id="hlIceSchedules" href="https://www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
                                     <li>
                                         <a id="hlpt" href="../Schedules/PassThroughIce.aspx">Pass-Through Ice</a></li>
                                     <li>

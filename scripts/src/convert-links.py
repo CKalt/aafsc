@@ -10,15 +10,18 @@ domains_to_rewrite = [
     'imgssl.constantcontact.com',
 ]
 
-# Compile a regular expression pattern for finding URLs to rewrite
+# Compile a regular expression pattern for finding URLs to rewrite in various attributes
+# This pattern is more inclusive and attempts to capture URLs in common attributes like href, src, srcset, and data-*
 url_pattern = re.compile(
-    r'href="(http[s]?)://(' + '|'.join(re.escape(domain) for domain in domains_to_rewrite) + ')(/[^"]*)"'
+    r'(\b(href|src|srcset|action|data-[^=]+)=["\'])(http[s]?)://(' + '|'.join(re.escape(domain) for domain in domains_to_rewrite) + ')(/[^"\']*)["\']',
+    re.IGNORECASE
 )
 
 def rewrite_url(match):
-    protocol, domain, path = match.groups()
+    prefix, attribute, protocol, domain, path = match.groups()
     # Adjust the replacement pattern according to your needs
-    return 'href="../' + domain + path + '"'
+    # Now handles multiple attributes by reconstructing the attribute assignment
+    return f'{prefix}../{domain}{path}"'
 
 def process_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -36,7 +39,7 @@ def main():
         for file in files:
             if file.endswith('.html') or file.endswith('.aspx'):
                 file_path = os.path.join(root, file)
-                print(f'Processing {file_path}')
+                print(f'Processing file: {file_path}')
                 process_file(file_path)
 
 if __name__ == "__main__":

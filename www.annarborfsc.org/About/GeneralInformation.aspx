@@ -42,10 +42,10 @@
 <link href="../Images/AAFSC_logo_small.ico" rel="shortcut icon" type="image/x-icon" /></head>
 <body>
     <form method="post" action="GeneralInformation.aspx" id="ctl01">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="enJQjuaoFQL/bSTvAKeo7AgkwzSOOJz7XN7cRWsQ3N37J56VZUdeZDel5U8ZxEmgzaM6pM8lYQOQk2WZ5OVwEMSXJ/y1pCrt71cSRgqrd81VvIPbs7MC10EJwHiTb4zhfrpWvgCo+2bT6pLyKb1caLSim341Pw86zMbrcdquOu6nj2/w0MkXDT82Kxerf0jYbsXTws5wdj1ZQEEm9qMlaVVsXH86NEU9BnLzI+lv+4EZdm5ivjDTi68Vd/sH/WSMx34LoEen15b0YRNlSyRmjdYtDIISlwtzieL2Z6dTqFIofjn9zWum3bb+RkmgjD9v02QHJnN5otH0T5oYUK9w45quoz8AYmm1+4aWXAnYZqjmIeC5p1v/xC3ZGVfXcP/G" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xDipCkalOCQYE7obYcTKPj+davZcXaRlbKjOILD1WwZDMdO3ONcLYKl3LdlneD3P0mUR+jw9XhAjAW32ANteUevSPBDEQXaMmITtNITbtJeMpObuMErzR7V6AoMeLR9PRYTZjhDCugtdFQ29zCO1GqgLaekgF2BpVdBM5ZUS5F43CE4yT+nmw1aivF2ftvGjoHI84XJ9x1abtVWUDelocoAd9ufNovVfBvPOsrq2cIUctFmYhLz5YmTTLkzkX5Kn58aU1WnW6iXSadOZO3BoRG4BXn5Przzba4doAL53qrk1GgtItevaVit2Edy4hKX5KirwZ9DOd5IIvRsI9II9n/DyeO3/6gctexXpOJ3yPXgDgQirc9hIGOzlXyDs1RAu" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D010C2C9" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="dS3xfb3th+VjHXk3CYhFtFv0kBk+Sd1sllqUSf95YtyQps/lw5tyS5puID0MT13CZ9W4UkcCKDcUrQNGAYepi+fblKBTrO94PGqdHjffkfaosvEPye7zVS5h+K7LG0lCqj3wS8xefKjg3MduT8Lfgw==" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="EDsotfS5ZErYCBhujf9s5UsuPZZl1ekTTFHUP4oVHLYANtVeWhxf8ZoTp/DG9GmijoJmBbifJxPgr9XwVByfZ8tzjXZ+vU+qXVCOWbmt5jTlzVQ6lTXaKP1i2E/7IDgj5LunIJpxsphc5GciGzzLOQ==" />
 
 
         <!--=== Top ===-->
@@ -337,7 +337,7 @@ inclusion to better reflect, serve, and engage our communities.
                                 </div>
                                 <ul>
                                     <li>
-                                        <a id="hlIceSchedules" href="../www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
+                                        <a id="hlIceSchedules" href="https://www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
                                     <li>
                                         <a id="hlpt" href="../Schedules/PassThroughIce.aspx">Pass-Through Ice</a></li>
                                     <li>

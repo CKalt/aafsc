@@ -251,7 +251,8 @@
                 </p>
 
                 <p>
-                    <input type="submit" name="ctl00$MainContent$btnSignup" value="Sign up for Learn To Skate" id="MainContent_btnSignup" class="btn-u btn-u-large" />
+                <input type="button" name="ctl00$MainContent$btnMembership" value="Sign up for Learn To Skate" id="MainContent_btnSignup" class="btn-u btn-u-large" onclick="window.location.href='https://comp.entryeeze.com/Membership/Welcome.aspx?cid=434';" /></p>
+
             </div>
         </div>
         <!-- End Carousel -->
