@@ -31,50 +31,50 @@
     </script>
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/css/headers/header1.css"
+      href="../figureskating.blob.core.windows.net/assets/css/headers/header1.css"
     />
 
     <!-- This is default header style -->
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/css/themes/headers/header1-blue.css"
+      href="../figureskating.blob.core.windows.net/assets/css/themes/headers/header1-blue.css"
     />
 
     <!-- CSS Global Compulsory -->
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/plugins/bootstrap/css/bootstrap.min.css"
+      href="../figureskating.blob.core.windows.net/assets/plugins/bootstrap/css/bootstrap.min.css"
     />
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/css/style.css"
+      href="../figureskating.blob.core.windows.net/assets/css/style.css"
     />
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/css/responsive.css"
+      href="../figureskating.blob.core.windows.net/assets/css/responsive.css"
     />
 
     <!-- CSS Implementing Plugins -->
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/plugins/font-awesome/css/font-awesome.css"
+      href="../figureskating.blob.core.windows.net/assets/plugins/font-awesome/css/font-awesome.css"
     />
     <link
       rel="stylesheet"
       type="text/css"
-      href="https://figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/css/sequencejs-theme.modern-slide-in.css"
+      href="../figureskating.blob.core.windows.net/assets/modern-slide-in/modern-slide-in/css/sequencejs-theme.modern-slide-in.css"
     />
 
     <!-- CSS Page Style -->
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/css/pages/page_search.css"
+      href="../figureskating.blob.core.windows.net/assets/css/pages/page_search.css"
     />
 
     <!-- CSS Theme -->
     <link
       rel="stylesheet"
-      href="https://figureskating.blob.core.windows.net/assets/css/themes/blue.css"
+      href="../figureskating.blob.core.windows.net/assets/css/themes/blue.css"
     />
 
     <!-- Local CSS -->
@@ -1376,7 +1376,7 @@
                 <li>
                   <a
                     id="hlIceSchedules"
-                    href="https://www.annarborfsc.org/Schedules/IceSessions.aspx"
+                    href="../www.annarborfsc.org/Schedules/IceSessions.aspx"
                     >Ice Schedules</a
                   >
                 </li>

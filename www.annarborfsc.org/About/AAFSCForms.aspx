@@ -311,7 +311,7 @@
                                 </div>
                                 <ul>
                                     <li>
-                                        <a id="hlIceSchedules" href="https://www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
+                                        <a id="hlIceSchedules" href="../www.annarborfsc.org/Schedules/IceSessions.aspx">Ice Schedules</a></li>
                                     <li>
                                         <a id="hlpt" href="../Schedules/PassThroughIce.aspx">Pass-Through Ice</a></li>
                                     <li>
