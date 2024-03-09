@@ -1,0 +1,18 @@
+When I run this script:
+
+wget --mirror --convert-links --page-requisites -e robots=off --span-hosts --domains=www.annarborfsc.org,aafsc.blob.core.windows.net,figureskating.blob.core.windows.net,files.constantcontact.com,imgssl.constantcontact.com https://www.annarborfsc.org
+
+The content that gets downloaded contains links that have been re-written. For example:
+
+an href property that originally was:
+
+    https://figureskating.blob.core.windows.net/assets/css/headers/header1.css
+
+becomes re-written as:
+
+    ../figureskating.blob.core.windows.net/assets/css/headers/header1.css
+
+this is due to the fact that figureskating.blob.core.windows.net appears in the --domains list of the wget command.
+
+This is all very good.  The problem I would like to solve is to create a python script that I can run which will modify all *.html and *.aspx files in the current working directory and re-write all the files to convert all these links according to the patterns found in the --domains list in the wget statement above.
+
