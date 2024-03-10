@@ -164,24 +164,17 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a id="HyperLink1" href="Schedules/EventRegistration.aspx">Register for an Upcoming Event</a></li>
-                                    <li>
-                                    <li>
                                         <a id="hlSpringtimeInvitational" href="Schedules/SpringtimeInvitational.aspx">Springtime Invitational</a></li>
                                     <li>
                                         <a id="hlMOI" href="Schedules/MelodyOnIce.aspx">Melody On Ice</a></li>
                                     <li>
                                         <a id="hlSkillsShowcase" href="Schedules/SkillsShowcase.aspx">Skills and Showcase</a></li>
                                     <li>
-                                        <a id="hlEGLR" href="Schedules/EGLR.aspx">2021 Tri-State Virtual Synchronized Skating Classic</a></li>
-                                    <li>
                                         <a id="hlAdultsSkateToo" href="Schedules/AdultsSkateToo.aspx">Adults Skate Too</a></li>
                                     <li>
                                         <a id="HyperLink15" href="Schedules/AdultOpen.aspx">Ann Arbor FSC Adult Open</a></li>
                                     <li>
                                         <a href="https://www.porterclassic.org/" target="_blank">Porter Classic</a></li>
-                                    <li>
-                                        <a id="hlUpcomingLocal" href="Schedules/UpcomingLocalCompetitions.aspx">Upcoming Local Competitions</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
@@ -190,10 +183,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a id="hlCatalog" href="shopping/catalog.aspx">Online Catalog</a></li>
-                                    <li>
-                                        <a id="hlClubMerchandise" href="shopping/ClubMerchandise.aspx">Club Merchandise</a></li>                                    <li>
-                                        <a id="hlShoppingCart" href="shopping/cart.aspx">My Cart</a></li>
+                                        <a id="hlClubMerchandise" href="shopping/ClubMerchandise.aspx">Club Services</a></li>
                                 </ul>
                             </li>
                             
