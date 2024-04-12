@@ -1,0 +1,77 @@
+; Domain: annarborfsc.org
+; Exported (y-m-d hh:mm:ss): 2024-04-12 12:12:47
+;
+; This file is intended for use for informational and archival
+; purposes ONLY and MUST be edited before use on a production
+; DNS server.
+;
+; In particular, you must update the SOA record with the correct
+; authoritative name server and contact e-mail address information,
+; and add the correct NS records for the name servers which will
+; be authoritative for this domain.
+;
+; For further information, please consult the BIND documentation
+; located on the following website:
+;
+; http://www.isc.org/
+;
+; And RFC 1035:
+;
+; http://www.ietf.org/rfc/rfc1035.txt
+;
+; Please note that we do NOT offer technical support for any use
+; of this zone data, the BIND name server, or any other third-
+; party DNS software.
+;
+; Use at your own risk.
+
+
+$ORIGIN annarborfsc.org.
+
+; SOA Record
+@	3600	 IN 	SOA	ns01.domaincontrol.com.	dns.jomax.net. (
+					2024041100
+					28800
+					7200
+					604800
+					3600
+					) 
+
+; A Record
+@	1800	 IN 	A	13.68.23.206
+
+; TXT Record
+@	3600	 IN 	TXT	"3tujr71ihfrqpqdrlkrp1kmpp7"
+@	3600	 IN 	TXT	"chntfihg0gad2su0e4u05jcc9d"
+@	3600	 IN 	TXT	"eluiv4tk01b4k1f16r962craia"
+@	3600	 IN 	TXT	"google-site-verification=564lmAkiOcnFL4KTuR3QdGOjuu8pe2WSf3fki3eOXQo"
+google._domainkey	3600	 IN 	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEK5a0/quUgpklJdp1J3tjHVf3xp/L/YnT3wR+/WidRBv+1P2yxyueO0hDlyQ8SjPX58VB38eS6/Ce3iJIXuOXH3OWUeDeY/3EWjhH+U8mevZixWBuPoTz9lhxk2wQphSjzX25fsbIdGmc7A1D9V8OHZJwljFe/NaLk6OcYAaVBQIDAQAB"
+
+; CNAME Record
+calendar	3600	 IN 	CNAME	ghs.googlehosted.com.
+docs	3600	 IN 	CNAME	ghs.googlehosted.com.
+email	3600	 IN 	CNAME	email.secureserver.net.
+fax	3600	 IN 	CNAME	fax.secureserver.net.
+files	3600	 IN 	CNAME	files.secureserver.net.
+ftp	3600	 IN 	CNAME	@
+imap	3600	 IN 	CNAME	imap.secureserver.net.
+mail	3600	 IN 	CNAME	ghs.googlehosted.com.
+mobilemail	3600	 IN 	CNAME	mobilemail-v01.prod.mesa1.secureserver.net.
+pop	3600	 IN 	CNAME	pop.secureserver.net.
+sites	3600	 IN 	CNAME	ghs.googlehosted.com.
+smtp	3600	 IN 	CNAME	smtp.secureserver.net.
+stage	3600	 IN 	CNAME	@
+www	3600	 IN 	CNAME	@
+_domainconnect	3600	 IN 	CNAME	_domainconnect.gd.domaincontrol.com.
+
+; NS Record
+@	3600	 IN 	NS	ns01.domaincontrol.com.
+@	3600	 IN 	NS	ns02.domaincontrol.com.
+
+; MX Record
+@	3600	 IN 	MX	10	aspmx.l.google.com.
+@	3600	 IN 	MX	20	alt1.aspmx.l.google.com.
+@	3600	 IN 	MX	30	alt2.aspmx.l.google.com.
+@	3600	 IN 	MX	40	aspmx2.googlemail.com.
+@	3600	 IN 	MX	50	aspmx3.googlemail.com.
+
