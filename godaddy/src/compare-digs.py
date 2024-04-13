@@ -53,21 +53,20 @@ def process_zone_file(zone_file, route53_nameservers, godaddy_nameservers, dry_r
         if len(parts) >= 4:
             record_name = parts[0]
             record_type = parts[3]
-            route53_dig_command = generate_dig_command(record_name, record_type, route53_nameservers, zone_name)
-            godaddy_dig_command = generate_dig_command(record_name, record_type, godaddy_nameservers, zone_name)
-            print(f"Record: {record_name} ({record_type})")
-            print(f"Route53 Dig Command: {route53_dig_command}")
-            print(f"GoDaddy Dig Command: {godaddy_dig_command}")
             if not dry_run:
-                print("Route53 Results:")
                 route53_ip_nameservers = resolve_nameservers(route53_nameservers)
                 route53_results = perform_dig(record_name, record_type, route53_ip_nameservers, zone_name)
-                print(route53_results)
-                print("GoDaddy Results:")
                 godaddy_ip_nameservers = resolve_nameservers(godaddy_nameservers)
                 godaddy_results = perform_dig(record_name, record_type, godaddy_ip_nameservers, zone_name)
-                print(godaddy_results)
-                print('---')
+                if route53_results == godaddy_results:
+                    print(f"{record_name} ({record_type}): COMPARE GOOD")
+                else:
+                    if record_type == 'MX' and set(route53_results) == set(godaddy_results):
+                        print(f"{record_name} ({record_type}): MX records compare but different order")
+                    else:
+                        print(f"{record_name} ({record_type}): DIFFERENCES FOUND")
+                        print(f"  Route53 Results: {route53_results}")
+                        print(f"  GoDaddy Results: {godaddy_results}")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Compare DNS records between Route53 and GoDaddy')
