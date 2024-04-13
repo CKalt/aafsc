@@ -41,6 +41,11 @@ def parse_zone_file(file_content, zone_name):
                 continue
             record_type = parts[3]
             record_name = parts[0] if parts[0] != '@' else ''
+
+            # Skip NS records for the apex domain
+            if record_type == 'NS' and record_name == '':
+                continue
+
             # Ensure correct domain concatenation for subdomains
             full_record_name = f"{record_name}.{zone_name}." if record_name else f"{zone_name}."
             records.append({
@@ -50,6 +55,7 @@ def parse_zone_file(file_content, zone_name):
                 'Value': ' '.join(parts[4:])
             })
     return records
+
 
 
 def format_resource_records(record):
