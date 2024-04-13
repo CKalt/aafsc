@@ -36,7 +36,8 @@ def parse_zone_file(file_content, zone_name):
         if line and not line.startswith(';') and not line.startswith('$') and not in_soa_record:
             parts = re.split(r'\s+', line)
             if len(parts) < 5:
-                logging.warning(f"Skipping line {line_number}: insufficient parts - {line}")
+                logging.warning(
+                    f"Skipping line {line_number}: insufficient parts - {line}")
                 continue
             record_type = parts[3]
             record_name = parts[0] if parts[0] != '@' else ''
@@ -50,10 +51,12 @@ def parse_zone_file(file_content, zone_name):
             })
     return records
 
+
 def format_resource_records(record):
     if record['Type'] == 'TXT':
         # Ensure correct quotation of TXT record values
-        cleaned_value = record['Value'].replace('"', '')  # Remove existing quotes
+        cleaned_value = record['Value'].replace(
+            '"', '')  # Remove existing quotes
         return [{'Value': f'"{cleaned_value}"'}]  # Add quotes around the value
     elif record['Type'] == 'MX':
         return [{'Value': record['Value']}]
@@ -61,39 +64,55 @@ def format_resource_records(record):
         return [{'Value': record['Value']}]
 
 
-
 def submit_changes_to_route53(records):
-    changes = []
+    change_batches = {}
     for record in records:
         formatted_record = format_resource_records(record)
-        print("Formatted record:", formatted_record)  # Logging the formatted record for verification
-        changes.append({
-            'Action': 'UPSERT',
-            'ResourceRecordSet': {
+        # Logging the formatted record for verification
+        print("Formatted record:", formatted_record)
+
+        # Group changes by record name and type
+        key = (record['Name'], record['Type'])
+        if key not in change_batches:
+            change_batches[key] = {
+                'Changes': [],
                 'Name': record['Name'],
                 'Type': record['Type'],
-                'TTL': int(record['TTL']),
-                'ResourceRecords': formatted_record
+                'TTL': int(record['TTL'])
             }
-        })
+        change_batches[key]['Changes'].extend(formatted_record)
 
-    try:
-        response = route53_client.change_resource_record_sets(
-            HostedZoneId=HOSTED_ZONE_ID,
-            ChangeBatch={
-                'Comment': 'Automated DNS update from BIND format',
-                'Changes': changes
-            }
-        )
-        return response
-    except Exception as e:
-        logging.error(f"An error occurred: {str(e)}")
-        return None
+    for key, change_batch in change_batches.items():
+        print(f"Submitting changeset for {key[0]} ({key[1]})")
+        try:
+            response = route53_client.change_resource_record_sets(
+                HostedZoneId=HOSTED_ZONE_ID,
+                ChangeBatch={
+                    'Comment': f"Automated DNS update for {key[0]} ({key[1]})",
+                    'Changes': [
+                        {
+                            'Action': 'UPSERT',
+                            'ResourceRecordSet': {
+                                'Name': change_batch['Name'],
+                                'Type': change_batch['Type'],
+                                'TTL': change_batch['TTL'],
+                                'ResourceRecords': change_batch['Changes']
+                            }
+                        }
+                    ]
+                }
+            )
+            print(f"Changeset for {key[0]} ({key[1]}) submitted successfully")
+        except Exception as e:
+            logging.error(
+                f"An error occurred while submitting changeset for {key[0]} ({key[1]}): {str(e)}")
+
+    return True
 
 
 def main():
     file_path = 'annarborfsc.org.txt'
-    zone_name = 'example-test.com'  # Define the zone name you're working with
+    zone_name = 'annarborfsc.org'
     try:
         with open(file_path, 'r') as file:
             file_content = file.read()
@@ -109,7 +128,6 @@ def main():
 
     response = submit_changes_to_route53(parsed_records)
     print(response)
-
 
 
 if __name__ == "__main__":
