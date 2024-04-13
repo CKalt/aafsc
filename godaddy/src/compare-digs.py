@@ -1,6 +1,10 @@
 import argparse
 import dns.resolver
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 def resolve_nameservers(nameservers):
     resolved_nameservers = []
@@ -74,7 +78,7 @@ if __name__ == '__main__':
     parser.add_argument('--dry-run', action='store_true', help='Print dig commands without executing them')
     args = parser.parse_args()
 
-    route53_nameservers = ['ns-1307.awsdns-35.org', 'ns-1848.awsdns-39.co.uk', 'ns-812.awsdns-37.net', 'ns-282.awsdns-35.com']
-    godaddy_nameservers = ['ns01.domaincontrol.com', 'ns02.domaincontrol.com']
+    route53_nameservers = os.getenv('ROUTE53_NAMESERVERS', '').split(',')
+    godaddy_nameservers = os.getenv('GODADDY_NAMESERVERS', '').split(',')
 
     process_zone_file(args.zone_file, route53_nameservers, godaddy_nameservers, args.dry_run)
