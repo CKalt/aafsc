@@ -40,14 +40,14 @@ def parse_zone_file(file_content, zone_name):
                     f"Skipping line {line_number}: insufficient parts - {line}")
                 continue
             record_type = parts[3]
-            record_name = parts[0] if parts[0] != '@' else ''
+            record_name = parts[0] if parts[0] != '@' else zone_name
 
-            # Skip NS records for the apex domain
-            if record_type == 'NS' and record_name == '':
+            # Skip NS and SOA records
+            if record_type in ('NS', 'SOA'):
                 continue
 
             # Ensure correct domain concatenation for subdomains
-            full_record_name = f"{record_name}.{zone_name}." if record_name else f"{zone_name}."
+            full_record_name = f"{record_name}.{zone_name}." if record_name != zone_name else f"{zone_name}."
             records.append({
                 'Name': full_record_name,
                 'TTL': parts[1],
@@ -55,7 +55,6 @@ def parse_zone_file(file_content, zone_name):
                 'Value': ' '.join(parts[4:])
             })
     return records
-
 
 
 def format_resource_records(record):
