@@ -45,6 +45,7 @@ def perform_dig(record_name, record_type, nameservers, zone_name, timeout=5):
         print(f"Record {record_name} ({record_type}) resolution timed out.")
         return []
 
+
 def process_zone_file(zone_file, route53_nameservers, godaddy_nameservers, dry_run):
     zone_name = os.path.splitext(os.path.basename(zone_file))[0]
     with open(zone_file, 'r') as file:
@@ -65,12 +66,16 @@ def process_zone_file(zone_file, route53_nameservers, godaddy_nameservers, dry_r
                 if route53_results == godaddy_results:
                     print(f"{record_name} ({record_type}): COMPARE GOOD")
                 else:
-                    if record_type == 'MX' and set(route53_results) == set(godaddy_results):
+                    if record_type == 'TXT' and set(route53_results) == set(godaddy_results):
+                        print(f"{record_name} ({record_type}): TXT records match but in different order")
+                    elif record_type == 'MX' and set(route53_results) == set(godaddy_results):
                         print(f"{record_name} ({record_type}): MX records compare but different order")
                     else:
                         print(f"{record_name} ({record_type}): DIFFERENCES FOUND")
                         print(f"  Route53 Results: {route53_results}")
                         print(f"  GoDaddy Results: {godaddy_results}")
+
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Compare DNS records between Route53 and GoDaddy')
