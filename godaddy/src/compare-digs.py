@@ -2,6 +2,17 @@ import argparse
 import dns.resolver
 import os
 
+def resolve_nameservers(nameservers):
+    resolved_nameservers = []
+    for nameserver in nameservers:
+        try:
+            answers = dns.resolver.resolve(nameserver, 'A')
+            ip_address = str(answers[0])
+            resolved_nameservers.append(ip_address)
+        except dns.resolver.NoAnswer:
+            print(f"Warning: Could not resolve IP address for nameserver {nameserver}")
+    return resolved_nameservers
+
 def generate_dig_command(record_name, record_type, nameservers, zone_name):
     if not record_name.endswith('.'):
         if record_name == '@':
@@ -49,10 +60,12 @@ def process_zone_file(zone_file, route53_nameservers, godaddy_nameservers, dry_r
             print(f"GoDaddy Dig Command: {godaddy_dig_command}")
             if not dry_run:
                 print("Route53 Results:")
-                route53_results = perform_dig(record_name, record_type, route53_nameservers, zone_name)
+                route53_ip_nameservers = resolve_nameservers(route53_nameservers)
+                route53_results = perform_dig(record_name, record_type, route53_ip_nameservers, zone_name)
                 print(route53_results)
                 print("GoDaddy Results:")
-                godaddy_results = perform_dig(record_name, record_type, godaddy_nameservers, zone_name)
+                godaddy_ip_nameservers = resolve_nameservers(godaddy_nameservers)
+                godaddy_results = perform_dig(record_name, record_type, godaddy_ip_nameservers, zone_name)
                 print(godaddy_results)
                 print('---')
 
